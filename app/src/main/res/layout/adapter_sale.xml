@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/saleAdapterName"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="货物名可能一二三四五六七八九十"
+        android:textSize="40dp"/>
+
+    <TextView
+        android:id="@+id/saleAdapterPrice"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Price: 8888.88"
+        android:textSize="30dp"/>
+
+</LinearLayout>
