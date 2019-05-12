@@ -4,7 +4,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 public class CodeSearch {
-    private static final String appkey = "447a317e3bbf88bba74dcb4d3353d502";
+    private static final String appkey = "447a317e3bbf88bb****************";
     private static final String pkg = "com.zhaohao.storeassistant";
     private static final String url = "http://api.juheapi.com/jhbar/bar?appkey="+appkey+"&pkg="+pkg+"&barcode=";
     private static final String urlend = "&cityid=1";
